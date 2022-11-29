@@ -1,0 +1,7 @@
+﻿CREATE TABLE [dbo].[Bancos] (
+    [ID]         INT           NOT NULL,
+    [NOME]       NVARCHAR (50) NOT NULL,
+    [TJPESSOAL]  FLOAT (53)    NOT NULL,
+    [TJVEICULAR] FLOAT (53)    NOT NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC)
+);

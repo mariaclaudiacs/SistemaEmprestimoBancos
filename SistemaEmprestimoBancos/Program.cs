@@ -1,0 +1,3 @@
+﻿using SimuladorEmprestimos;
+
+BancoMTM.MenuBanco();
