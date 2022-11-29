@@ -17,8 +17,8 @@ namespace SimuladorEmprestimos
             while (sair == false)
             {
 
-                Console.WriteLine("----- Bem Vindo ao Simulador de Empréstimo MTM -----");
-                Console.WriteLine("----------------------------------------------------");
+                Console.WriteLine("----- Bem Vindo ao Simulador de Empréstimo MTM ----- (Marco Esteve aqui!)");
+                Console.WriteLine("---------------------------------------------------- (Marco Esteve aqui!)");
                 Console.WriteLine("1-Ver Taxas de Juros\n2-Fazer uma simulação de Empréstimo\n3-Sair");
                 Console.WriteLine();
                 Console.Write("Escolha a opção desejada: ");
